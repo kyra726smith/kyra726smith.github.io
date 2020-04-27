@@ -1,0 +1,25 @@
+/*CSS DOCUMENT*/
+h1{
+    color: darkslateblue;
+    font-size: 3em;
+}
+
+h2{
+    color: cadetblue;
+    font-size: 2em;
+}
+h4{
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+.description{
+    font-style: italic;
+}
+.koberlatblue{
+    font-size: 3.1em
+}
+.price{
+    color: dimgrey;
+}
