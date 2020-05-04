@@ -1,0 +1,33 @@
+/*CSS DOCUMENT*/
+
+
+img {
+width: 60%;}
+
+h1{
+    color: darkred;
+    font-size: 3em;
+    background-color: floralwhite;
+    
+}
+
+h2{
+    color: darkolivegreen;
+    font-size: 2em;
+    background-color: floralwhite;
+}
+h3{
+    color: darkred;
+    background-color: floralwhite;
+    font-size: 2em;
+}
+p{
+    color: darkolivegreen;
+    font-size: 1.3em;
+}
+ul{
+    font-family: sans-serif;
+}
+ol{
+    font-family: sans-serif;
+}
